@@ -1,2 +1,2 @@
-# Html
+# HTML & CSS & javascript
 some little projects...
